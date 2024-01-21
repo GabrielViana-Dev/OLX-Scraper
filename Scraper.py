@@ -60,4 +60,4 @@ for pages in range(1, 101):
             except KeyError:
                 continue
 
-    time.sleep(5)
+    time.sleep(10)
